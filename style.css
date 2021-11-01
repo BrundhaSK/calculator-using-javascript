@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+body {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1050%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(226%2c 134%2c 134%2c 1)'%3e%3c/rect%3e%3cpath d='M272.48713605654893 351.57007805637926L364.6080636606008 268.62402227722237 281.6620078814439 176.50309467317044 189.54108027739204 259.44915045232733z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M176.03912077091985 367.22935765052773L160.10080104004476 215.58637494305566 8.457818332572685 231.52469467393075 24.39613806344778 383.1676773814028z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M360.41693922073136 178.82102404810624L333.2000251344018 273.73768334954894 428.1166844358445 300.95459743587844 455.33359852217404 206.03793813443576z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1104.4211862201057-19.250314311339878L980.2198200169105-103.02519361886013 896.4449407093903 21.176172584335063 1020.6463069125855 104.95105189185531z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M827.799252683992 374.48915022448625L865.1919159419102 524.4629310734708 1015.1656967908948 487.07026781555265 977.7730335329766 337.096486966568z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M149.81954002495496-17.346391951959635L41.31033088439683 76.7978191831445 159.31594893410013 119.748351629423z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1194.9520077420132 57.74232538198418L1278.2170418332992 107.88106979279844 1281.1822471462056 22.968699416564306z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M397.933%2c157.568C413.139%2c157.397%2c429.333%2c153.691%2c436.935%2c140.521C444.536%2c127.352%2c439.942%2c111.305%2c432.184%2c98.228C424.617%2c85.473%2c412.764%2c74.853%2c397.933%2c74.775C382.988%2c74.696%2c370.819%2c85.097%2c363.05%2c97.864C354.892%2c111.269%2c349.462%2c127.869%2c357.378%2c141.418C365.246%2c154.884%2c382.338%2c157.744%2c397.933%2c157.568' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M581.3861938228372 274.6641940006531L497.9428278995993 188.09109827653873 467.21198556839596 288.6071543837785z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1317.577345722359 591.3122693838916L1313.6021882046275 477.478651866645 1199.7685706873808 481.45380938437654 1203.7437282051123 595.2874269016231z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M626.685%2c301.912C663.434%2c301.486%2c698.024%2c281.109%2c714.43%2c248.223C729.424%2c218.166%2c716.307%2c184.603%2c699.798%2c155.351C682.897%2c125.404%2c661.023%2c94.585%2c626.685%2c92.75C589.845%2c90.781%2c557.162%2c114.824%2c538.658%2c146.741C520.092%2c178.765%2c517.078%2c218.102%2c535.343%2c250.299C553.837%2c282.9%2c589.206%2c302.347%2c626.685%2c301.912' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1499.169081877122 451.125678733174L1347.7686216149596 448.48297386913595 1345.1259167509215 599.8834341312983 1496.526377013084 602.5261389953363z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1149.621%2c297.456C1184.745%2c297.669%2c1217.814%2c279.027%2c1234.735%2c248.246C1251.094%2c218.487%2c1245.298%2c183.074%2c1228.824%2c153.378C1211.753%2c122.605%2c1184.777%2c96.383%2c1149.621%2c94.819C1111.956%2c93.143%2c1075.281%2c112.663%2c1057.192%2c145.742C1039.727%2c177.68%2c1047.34%2c216.137%2c1066.279%2c247.223C1084.367%2c276.912%2c1114.857%2c297.245%2c1149.621%2c297.456' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M321.43061293265833 334.9490284630903L391.05110292797247 434.57934473923655 437.62783470701686 339.0828926444533z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1106.8207995145801 511.4733372240093L1183.8987991466047 544.1910069516168 1194.4363039220038 412.2151726397763z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float3'%3e%3c/path%3e%3cpath d='M1156.4852318983267 212.4816020911711L1076.37710077935 238.51031172013484 1102.4058104083138 318.61844283911154 1182.5139415272904 292.5897332101478z' fill='rgba(145%2c 226%2c 134%2c 1)' class='triangle-float2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1050'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  background-position: center;
+  background-attachment: fixed;
+}
+.container {
+  max-width: 400px;
+  width: 100%;
+  margin: 0;
+  padding: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+.card {
+  border-right: 2px solid rgb(195, 89, 89);
+  border-top: none;
+  border-left: 2px solid rgb(145, 226, 134);
+  border-bottom: 2px solid rgb(145, 226, 134);
+}
+.card-header {
+  background-color: rgb(23, 1, 42);
+  color: #ffff;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  padding: 10px;
+  text-transform: uppercase;
+}
+.top {
+  max-height: 500px;
+  border-bottom: 2px solid rgb(238, 134, 134);
+  padding-right: 20px;
+  margin-bottom: 10px;
+}
+.history {
+  max-height: 100px;
+  text-align: right;
+}
+#his {
+  font-family: "Poppins", sans-serif;
+  color: rgb(223, 147, 182);
+  font-size: 20px;
+  font-weight: 600;
+}
+.output {
+  max-height: 100px;
+  text-align: right;
+}
+#out {
+  font-family: "Poppins", sans-serif;
+  color: rgb(161, 40, 97);
+  font-size: 28px;
+  font-weight: 600;
+}
+.bottom {
+  max-height: 600px;
+  padding: 10px;
+}
+.keys {
+  text-align: center;
+}
+button {
+  width: 50px;
+  height: 50px;
+  margin: 6px;
+  border: none;
+  border-radius: 50%;
+  font-family: "Poppins", sans-serif;
+  color: rgb(6, 41, 41);
+  font-size: 18px;
+  font-weight: 600;
+}
+.operator {
+  background: rgb(226, 134, 134);
+}
+.number {
+  background: rgb(145, 226, 134);
+}
+#empty {
+  visibility: hidden;
+}
+
+@media only screen and (max-width: 375px) {
+  button {
+    width: 40px;
+    height: 40px;
+    margin: 6px;
+  }
+}
+@media only screen and (max-width: 330px) {
+  button {
+    width: 30px;
+    height: 30px;
+    margin: 6px;
+    font-size: 12px;
+    font-weight: 700;
+  }
+}
+@media only screen and (max-width: 280px) {
+  button {
+    margin: 2px;
+    font-size: 12px;
+    font-weight: 700;
+  }
+}
